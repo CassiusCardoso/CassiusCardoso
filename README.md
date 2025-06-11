@@ -41,7 +41,7 @@ Sou um desenvolvedor **Back-end** apaixonado por tecnologia, com experiência em
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin-aqui)  
-[Email](mailto:seu-email@exemplo.com)
+[Email](mailto:cassiuscardosoo@gmail.com)
 
 ---
 
